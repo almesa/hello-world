@@ -1,3 +1,2 @@
 # hello-world
 Getting my feet wet with github
-Something wonderful is going to happen...
